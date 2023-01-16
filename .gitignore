@@ -1,0 +1,9 @@
+# VS
+.vs/
+bin/
+tmp/
+*.vcxproj.user
+*.aps
+
+# Nuget
+packages/
